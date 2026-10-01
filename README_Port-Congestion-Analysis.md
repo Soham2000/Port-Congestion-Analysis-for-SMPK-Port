@@ -162,4 +162,4 @@ Python · pandas · scikit-learn · XGBoost · LightGBM · SHAP · SimPy · Pyga
 
 ## Acknowledgements
 
-Ernst & Young (EY) for the problem statement and industry guidance, Prof. Vijay Kovvali and Prof. Tarun Rambha (IISc) for supervision, and teammates `<names>`.
+Ernst & Young (EY) for the problem statement and industry guidance, Prof. Vijay Kovvali and Prof. Tarun Rambha (IISc) for supervision, and teammates Shreya Ghosh, Kartikeya Gaur, Revathy Ramesh, Sagnika Mukhopadhyay.
